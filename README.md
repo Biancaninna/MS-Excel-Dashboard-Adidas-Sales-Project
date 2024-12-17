@@ -18,6 +18,7 @@ Our clients wants us to create US Adidas Sales by Region MS Excel Dynamic Dashbo
 ### Chart's Requirements
 1. Dynamic Line Chart
 2. Dynamic Bar Chart
+   and some hyperlinks
 
 ## Software Used
 1. MS Excel
